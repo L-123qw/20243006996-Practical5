@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chinese Municipalities</string>
+    <string name="main_title">Municipalities in China</string>
+    <string name="label_input">I want to know about:</string>
+    <string name="edit_hint">name of a municipality</string>
+    <string name="button_visit">Visit site</string>
+
+    <string name="error_invalid">Unsupported municipality. Please enter Beijing, Shanghai, Tianjin or Chongqing.</string>
+    <string name="error_empty">Please enter the name of a municipality.</string>
+    <string name="error_no_data">No municipality data was received.</string>
+    <string name="error_no_browser">No application is available to open this website.</string>
+</resources>
